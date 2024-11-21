@@ -1,0 +1,207 @@
+.container{
+    width: 90%;
+    height: 1000px;
+    background-color: gray;
+    margin: auto;
+}
+.logo{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.gbr{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+.sosmed{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+}
+.menu{
+    width: 100%;
+    height: 50px;
+    background-color: green;
+    display: flex;
+}
+.beranda{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
+.layanan{
+    width: 100px;
+    height: 50px;
+    background-color: aquamarine;
+}
+.kontak-menu{
+    width: 100px;
+    height: 50px;
+    background-color: darkcyan;
+}
+.email{
+    width: 100px;
+    height: 50px;
+    background-color: red;
+}
+.promosi-menu{
+    width: 100px;
+    height: 50px;
+    background-color: antiquewhite;
+}
+.arsip{
+    width: 100px;
+    height: 50px;
+    background-color: brown;
+}
+.gambar-utama{
+    width: 100%;
+    height: 300px;
+    background-color: blueviolet;
+    display: flex;
+}
+.teks-gambar{
+    width: 40%;
+    height: 200px;
+    background-color: darkblue;
+    margin: auto;
+}
+.gambar-promosi{
+    width: 20%;
+    height: 200px;
+    background-color: gold;
+    margin: auto;
+}
+.kontak{
+    width: 80%;
+    height: 100px;
+    background-color: chartreuse;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.kontak-person{
+    width: 300px;
+    height: 50px;
+    background-color: chocolate;
+}
+.pengiriman{
+    width: 300px;
+    height: 50px;
+    background-color: darkmagenta;
+}
+.pembayaran{
+    width: 300px;
+    height: 50px;
+    background-color: hotpink;
+}
+.promosi{
+    width: 80%;
+    height: 300px;
+    background-color: indigo;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.e-books{
+    width: 25%;
+    height: 200px;
+    background-color: deepskyblue;
+}
+.texk-books{
+    width: 25%;
+    height: 200px;
+    background-color: crimson;
+}
+.ofter-zone{
+    width: 25%;
+    height: 200px;
+    background-color: darksalmon;
+}
+.pemesanan{
+    width: 30%;
+    height: 40px;
+    background-color:darkmagenta;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.brody{
+    width: 30px;
+    height: 30px;
+    background-color: blueviolet;
+}
+.natan{
+    width: 30px;
+    height: 30px;
+    background-color: yellow;
+}
+.zilong{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+}
+.daftar-harga{
+    width: 80%;
+    height: 300px;
+    background-color: olivedrab;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.buku1{
+    width: 10%;
+    height: 250px;
+    background-color: darkorange;
+}
+.buku2{
+    width: 10%;
+    height: 250px;
+    background-color: cadetblue;
+}
+.buku3{
+    width: 10%;
+    height: 250px;
+    background-color: darkgreen;
+}
+.buku4{
+    width: 10%;
+    height: 250px;
+    background-color: pink;
+}
+.buku5{
+    width: 10%;
+    height: 250px;
+    background-color: aqua;
+}
+.alamat{
+    width: 100%;
+    height: 300px;
+    background-color: forestgreen;
+}
+.tulisan{
+    width: 100%;
+    height: 150px;
+    background-color: whitesmoke;
+}
+.gbr1{
+    width: 100%;
+}
+.gbr2{
+    width: 200px;
+    height: 100px;
+}
+.gbr3{
+    width: 100%;
+    height: 200px;
+}
+.P{
+    color: orange;
+    text-align: center;
+}
